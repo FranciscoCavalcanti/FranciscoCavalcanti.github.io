@@ -16,6 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FranciscoCavalcanti.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
+seo_description          : "Site for Francisco Cavalcanti, Post-doc in Economics at PUC-Rio"
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -57,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "Franciscolc85"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +83,7 @@ analytics:
 author:
   name             : "Francisco Cavalcanti"
   avatar           : "profile.png"
-  bio              : "Post-doc researcher at Economics Department of PUC-Rio and operational coordinator at Data Zoom"
+  bio              : "Post-doc researcher at <a style='color: black;' href='http://www.econ.puc-rio.br/'>Department of Economics</a> of PUC-Rio <br> <br> & operational coordinator at <a style='color: black;' href='http://www.econ.puc-rio.br/datazoom/index.html'>Data Zoom</a>"
   location         : "Rio de Janeiro, Brazil"
   employer         : 
   pubmed           : 
@@ -181,6 +182,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/    
 
 # Defaults
 defaults:
