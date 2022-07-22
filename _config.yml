@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Francisco Cavalcanti"
   avatar           : "profile.png"
-  bio              : "Post-doc researcher at Economics Department of PUC-Rio"
+  bio              : "Post-doc researcher at Economics Department of PUC-Rio and operational coordinator at Data Zoom"
   location         : "Rio de Janeiro, Brazil"
-  employer         : "PUC-Rio"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nfOjdjYAAAAJ&hl=pt-BR"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Francisco-Cavalcanti-6"
+  researchgate     : "https://www.researchgate.net/profile/Francisco-Cavalcanti-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -215,6 +215,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
