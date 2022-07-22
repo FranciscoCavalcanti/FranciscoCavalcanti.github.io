@@ -11,7 +11,7 @@ title                    : "Francisco Cavalcanti"
 title_separator          : "-"
 name                     : &name "Francisco Cavalcanti"
 description              : &description "Applied economist"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://franciscocavalcanti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FranciscoCavalcanti.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Post-doc researcher at Economics Department of PUC-Rio"
   location         : "Rio de Janeiro, Brazil"
-  employer         :
+  employer         : "PUC-Rio"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nfOjdjYAAAAJ&hl=pt-BR"
   email            :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "FranciscoCavalcanti"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/francisco-de-lima-cavalcanti-5497b027/"
   orcid            : "https://orcid.org/0000-0001-9902-4720"
   pinterest        :
   soundcloud       :
@@ -181,13 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -227,23 +220,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
