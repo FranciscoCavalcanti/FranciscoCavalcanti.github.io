@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Francisco Cavalcanti"
   avatar           : "profile.png"
-  bio              : "Post-doc researcher at <a style='color: black;' href='http://www.econ.puc-rio.br/'>Department of Economics</a> of PUC-Rio <br> <br> & operational coordinator at <a style='color: black;' href='http://www.econ.puc-rio.br/datazoom/index.html'>Data Zoom</a>"
-  location         : "Rio de Janeiro, Brazil"
+  bio              : "Applied economist, Ph.d"
+  location         : # "Rio de Janeiro, Brazil"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=nfOjdjYAAAAJ&hl=pt-BR"
+  googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=nfOjdjYAAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Francisco-Cavalcanti-6"
+  researchgate     : # "https://www.researchgate.net/profile/Francisco-Cavalcanti-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/francisco-de-lima-cavalcanti-5497b027/"
-  orcid            : "https://orcid.org/0000-0001-9902-4720"
+  linkedin         : # "https://www.linkedin.com/in/francisco-de-lima-cavalcanti-5497b027/"
+  orcid            : # "https://orcid.org/0000-0001-9902-4720"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -299,6 +299,6 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 
 github: [metadata]
