@@ -17,7 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 gem 'nokogiri'
-gem 'rack', '~> 2.0.1'
+gem 'rack', '~> 2.1.4'
 gem 'rspec'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
