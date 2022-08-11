@@ -40,7 +40,7 @@ author_profile: true
   * Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/desigualdades-no-mercado-de-trabalho-por-genero-evidencias-para-a-amazonia-legal/'>Desigualdades no Mercado de Trabalho por Gênero: Evidências para a Amazônia Legal</a>  2022-04 Projeto Amazônia 2030 , No. 36 p. 42
 
 
-  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='  https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-ocupacoes-qualificadas-e-de-lideranca/'>Dinamismo de Emprego e Renda na Amazônia Legal: Setor Serviços</a>  2021-08 Projeto Amazônia 2030 n. 15
+  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='  https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-ocupacoes-qualificadas-e-de-lideranca/'>Dinamismo de Emprego e Renda na Amazônia Legal: Ocupações Qualificadas e de Liderança </a>  2021-08 Projeto Amazônia 2030 n. 15
 
 
   * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-servicos/'>Dinamismo de Emprego e Renda na Amazônia Legal: Setor Serviços</a>  2021-08 Projeto Amazônia 2030 n. 14
