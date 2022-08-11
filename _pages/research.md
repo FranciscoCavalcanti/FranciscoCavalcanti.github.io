@@ -40,14 +40,14 @@ author_profile: true
   * Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/desigualdades-no-mercado-de-trabalho-por-genero-evidencias-para-a-amazonia-legal/'>Desigualdades no Mercado de Trabalho por Gênero: Evidências para a Amazônia Legal</a>  2022-04 Projeto Amazônia 2030 , No. 36 p. 42
 
 
-  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='  https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-ocupacoes-qualificadas-e-de-lideranca/'>Dinamismo de Emprego e Rendana Amazônia Legal: Setor Serviços</a>  2021-08 Projeto Amazônia 2030 n. 15
+  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='  https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-ocupacoes-qualificadas-e-de-lideranca/'>Dinamismo de Emprego e Renda na Amazônia Legal: Setor Serviços</a>  2021-08 Projeto Amazônia 2030 n. 15
 
 
-  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-servicos/'>Dinamismo de Emprego e Rendana Amazônia Legal: Setor Serviços</a>  2021-08 Projeto Amazônia 2030 n. 14
+  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-servicos/'>Dinamismo de Emprego e Renda na Amazônia Legal: Setor Serviços</a>  2021-08 Projeto Amazônia 2030 n. 14
 
-  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-setor-publico/'>Dinamismo de Emprego e Rendana Amazônia Legal: Setor Público</a>  2021-08 Projeto Amazônia 2030 n. 13
+  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-setor-publico/'>Dinamismo de Emprego e Renda na Amazônia Legal: Setor Público</a>  2021-08 Projeto Amazônia 2030 n. 13
 
-  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-agropecuaria/'>Dinamismo de Emprego e Rendana Amazônia Legal: Agropecuária</a>  2021-08 Projeto Amazônia 2030 n. 10
+  * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/dinamismo-de-emprego-e-renda-na-amazonia-legal-agropecuaria/'>Dinamismo de Emprego e Renda na Amazônia Legal: Agropecuária</a>  2021-08 Projeto Amazônia 2030 n. 10
 
 
   * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/mercado-de-trabalho-na-amazonia-legal-uma-analise-comparativa-com-o-resto-do-brasil/'> Mercado de trabalho na Amazônia Legal: Uma análise comparativa com o resto do Brasil</a>  2020-11 Projeto Amazônia 2030 p. 68
