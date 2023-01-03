@@ -11,6 +11,7 @@ author_profile: true
 
 # Working papers
 
+  * Baerlocher, Diogo & Cavalcanti, Francisco & Caldas, Renata & Schneider, Rodrigo <a style='color: black;' href='https://ssrn.com/abstract=4249006'>Natural Disasters Support Authoritarian Populism: Evidence From the Brazilian Shrimp Vote</a> 2022 Available at SSRN 4249006
 
   * Boffa, Federico & Cavalcanti, Francisco & Piolatto, Amedeo & Fons-Rosen <a style='color: black;' href='https://bse.eu/research/working-papers/drought-reliefs-and-partisanship'>Drought-Reliefs and Partisanship</a>  2022 BSE Working Paper: 1337 Barcelona GSE [Revise & Resubmit]
     * <a style='color: black;' href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>:  New insights on distributive politics from a new way to measure aridity
@@ -28,8 +29,6 @@ author_profile: true
 
   * Mota, Henrique & Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href=''>Mobile broadband expansion and tasks: Evidence from Brazilian formal labor markets</a>
   
-  * Baerlocher, Diogo & Cavalcanti, Francisco & Caldas, Renata & Schneider, Rodrigo <a style='color: black;' href=''>Natural Disasters in Support to Dictatorships Evidence from Brazil</a> 
-
   * Cavalcanti, Francisco <a style='color: black;' href=''>Drought and Corruption</a>
 
 
