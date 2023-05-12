@@ -7,17 +7,17 @@ author_profile: true
 
 # Publication
 
-  * Cavalcanti, Francisco & Daniele, Gianmarco & Galletta, Sergio <a style='color: black;' href='http://www.sciencedirect.com/science/article/pii/S0047272718301361'>Popularity shocks and political selection</a> 2018-09 Journal of Public Economics , Vol. 165 p. 201-216 
+  * <a style='color: black;' href='https://bse.eu/research/working-papers/drought-reliefs-and-partisanship'>Drought-Reliefs and Partisanship</a>  Oxford Bulletin of Economics and Statistics, 2023. (with Boffa, Federico & Piolatto, Amedeo & Fons-Rosen, Christian)
+    * <a style='color: black;' href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>:  New insights on distributive politics from a new way to measure aridity
+    * <a style='color: black;' href='https://github.com/FranciscoCavalcanti/Drought-reliefs-and-Partisanship'>GitHub repository</a>
+
+  * <a style='color: black;' href='http://www.sciencedirect.com/science/article/pii/S0047272718301361'>Popularity shocks and political selection</a> Journal of Public Economics, 2018 , Vol. 165 p. 201-216. (with Daniele, Gianmarco & Galletta, Sergio ) 
 
 # Working papers
 
   * Baerlocher, Diogo & Cavalcanti, Francisco & Caldas, Renata & Schneider, Rodrigo <a style='color: black;' href='https://ssrn.com/abstract=4249006'>Natural Disasters Support Authoritarian Populism: Evidence From the Brazilian Shrimp Vote</a> 2022 Available at SSRN 4249006
 
-  * Boffa, Federico & Cavalcanti, Francisco & Piolatto, Amedeo & Fons-Rosen <a style='color: black;' href='https://bse.eu/research/working-papers/drought-reliefs-and-partisanship'>Drought-Reliefs and Partisanship</a>  2022 BSE Working Paper: 1337 Barcelona GSE [Revise & Resubmit]
-    * <a style='color: black;' href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>:  New insights on distributive politics from a new way to measure aridity
-
   * Boffa, Federico & Cavalcanti, Francisco &  Piolatto, Amedeo <a style='color: black;' href='http://diposit.ub.edu/dspace/handle/2445/182602'>Ignorance is bliss: voter education and alignment in distributive politics</a> 2021 IEB Working Paper 2021/07 Institut d’Economia de Barcelona
-
 
   * Cavalcanti, Francisco <a style='color: black;' href='https://mpra.ub.uni-muenchen.de/88317/'>Voters sometimes provide the wrong incentives. The lesson of the Brazilian drought industry</a> 2018
   
