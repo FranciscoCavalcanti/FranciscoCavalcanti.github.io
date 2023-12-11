@@ -25,6 +25,9 @@ author_profile: true
 
 # Work in progress
 
+
+  * Didier, Fredie & Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href=''>Education and Job Security in Times of Crisis: A Study on the Differential Impact of the COVID-19 Pandemic in Brazil</a>
+
   * Cavalcanti, Francisco & Helfand, Steven & Moreira, Ajax <a style='color: black;' href=''>Climate Change, Droughts, and Agricultural Productivity</a> 
 
   * Mota, Henrique & Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href=''>Mobile broadband expansion and tasks: Evidence from Brazilian formal labor markets</a>
