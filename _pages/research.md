@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Publication
+# Publications
 
   * <a style='color: black;' href='https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12560'>Drought-Reliefs and Partisanship</a>  Oxford Bulletin of Economics and Statistics, 2023. (with Boffa, Federico & Piolatto, Amedeo & Fons-Rosen, Christian)
     * <a style='color: black;' href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>:  New insights on distributive politics from a new way to measure aridity
