@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "Franciscolc85"
+  username               : &twitter "fra_cavalcanti"
 facebook:
   username               :
   app_id                 :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Franciscolc85"
+  twitter          : "fra_cavalcanti"
   vine             :
   weibo            :
   xing             :
