@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am an Assistant Professor of Economics at the <a style='color: black;' href='https://www.ufpe.br/'>Universidade Federal de Pernambuco (UFPE)</a> since 2023. Previously, I had a wealth of experience as a Postdoctoral Researcher at the Department of Economics of <a style='color: black;' href='http://www.econ.puc-rio.br/'>PUC-Rio</a> (2018-2023) and Operational Coordinator at <a style='color: black;' href='http://www.econ.puc-rio.br/datazoom/index.html'>Data Zoom</a> (2019-2023). I earned my Ph.D. from the <a style='color: black;' href='https://www.ub.edu/school-economics/'>Universitat de Barcelona</a> (2018), and my academic journey includes both a Master's (2012) and Bachelor's degree from <a style='color: black;' href='https://sites.google.com/view/pimes/'>PIMES/UFPE</a> (2010).
+I am an Assistant Professor of Economics at the <a style='color: black;' href='https://www.ufpe.br/'>Universidade Federal de Pernambuco</a> since 2023. Previously, I had a wealth of experience as a Postdoctoral Researcher at the Department of Economics of <a style='color: black;' href='http://www.econ.puc-rio.br/'>PUC-Rio</a> (2018-2023) and Operational Coordinator at <a style='color: black;' href='http://www.econ.puc-rio.br/datazoom/index.html'>Data Zoom</a> (2019-2023). I earned my Ph.D. from the <a style='color: black;' href='https://www.ub.edu/school-economics/'>Universitat de Barcelona</a> (2018), and my academic journey includes both a Master's (2012) and Bachelor's (2010) degree from <a style='color: black;' href='https://sites.google.com/view/pimes/'>PIMES/UFPE</a>.
 
 
 ## Research Focus
