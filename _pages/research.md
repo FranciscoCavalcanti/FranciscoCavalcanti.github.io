@@ -15,24 +15,25 @@ author_profile: true
 
 # Working papers
 
-  * Baerlocher, Diogo & Cavalcanti, Francisco & Caldas, Renata & Schneider, Rodrigo <a style='color: black;' href='https://ssrn.com/abstract=4249006'>Natural Disasters Support Authoritarian Populism: Evidence From the Brazilian Shrimp Vote</a> 2022 Available at SSRN 4249006
 
-  * Boffa, Federico & Cavalcanti, Francisco &  Piolatto, Amedeo <a style='color: black;' href='http://diposit.ub.edu/dspace/handle/2445/182602'>Ignorance is bliss: voter education and alignment in distributive politics</a> 2021 IEB Working Paper 2021/07 Institut d’Economia de Barcelona
+  * <a style='color: black;' href='https://ageconsearch.umn.edu/record/338539/'>Climate Change, Droughts, and Agricultural Productivity</a>  (with Helfand, Steven & Moreira, Ajax) 
 
-  * Cavalcanti, Francisco <a style='color: black;' href='https://mpra.ub.uni-muenchen.de/88317/'>Voters sometimes provide the wrong incentives. The lesson of the Brazilian drought industry</a> 2018
+  * <a style='color: black;' href='https://ssrn.com/abstract=4249006'>Natural Disasters Support Authoritarian Populism: Evidence From the Brazilian Shrimp Vote</a> 2022 Available at SSRN 4249006 (with Baerlocher, Diogo & Caldas, Renata & Schneider, Rodrigo)
+
+  * <a style='color: black;' href='http://diposit.ub.edu/dspace/handle/2445/182602'>Ignorance is bliss: voter education and alignment in distributive politics</a> 2021 IEB Working Paper 2021/07 Institut d’Economia de Barcelona (with Boffa, Federico & Piolatto, Amedeo)
+
+  * <a style='color: black;' href='https://mpra.ub.uni-muenchen.de/88317/'>Voters sometimes provide the wrong incentives. The lesson of the Brazilian drought industry</a> 2018
   
-  * Cavalcanti, Francisco & Silveira-Neto, Raul da Mota <a style='color: black;' href='https://www.researchgate.net/profile/Francisco-Cavalcanti-6/publication/319902513_Creative_Class_Human_Capital_and_Urban_Dynamism_Empirical_Evidence_for_the_Brazilian_Cities/links/59c0dbdaaca272aff2e4efb0/Creative-Class-Human-Capital-and-Urban-Dynamism-Empirical-Evidence-for-the-Brazilian-Cities.pdf'>Creative Class, Human Capital and Urban Dynamism: Empirical Evidence for the Brazilian Cities</a> 2016 Anais do XLII Encontro Nacional de Economia [Proceedings of the 42nd Brazilian Economics Meeting], No. 160
+  * <a style='color: black;' href='https://www.researchgate.net/profile/Francisco-Cavalcanti-6/publication/319902513_Creative_Class_Human_Capital_and_Urban_Dynamism_Empirical_Evidence_for_the_Brazilian_Cities/links/59c0dbdaaca272aff2e4efb0/Creative-Class-Human-Capital-and-Urban-Dynamism-Empirical-Evidence-for-the-Brazilian-Cities.pdf'>Creative Class, Human Capital and Urban Dynamism: Empirical Evidence for the Brazilian Cities</a> 2016 Anais do XLII Encontro Nacional de Economia [Proceedings of the 42nd Brazilian Economics Meeting], No. 160 (with & Silveira-Neto, Raul da Mota)
 
 # Work in progress
 
 
-  * Didier, Fredie & Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href=''>Education and Job Security in Times of Crisis: A Study on the Differential Impact of the COVID-19 Pandemic in Brazil</a>
+  * <a style='color: black;' href=''>Education and Job Security in Times of Crisis: A Study on the Differential Impact of the COVID-19 Pandemic in Brazil</a> (with Didier, Fredie & Gonzaga, Gustavo)
 
-  * Cavalcanti, Francisco & Helfand, Steven & Moreira, Ajax <a style='color: black;' href=''>Climate Change, Droughts, and Agricultural Productivity</a> 
-
-  * Mota, Henrique & Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href=''>Mobile broadband expansion and tasks: Evidence from Brazilian formal labor markets</a>
+  * <a style='color: black;' href=''>Mobile broadband expansion and tasks: Evidence from Brazilian formal labor markets</a> (with Mota, Henrique & Gonzaga, Gustavo)
   
-  * Cavalcanti, Francisco <a style='color: black;' href=''>Drought and Corruption</a>
+  * <a style='color: black;' href=''>Drought and Corruption</a>
 
 
 # Technical reports and other publications
