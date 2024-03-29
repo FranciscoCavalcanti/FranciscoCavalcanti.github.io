@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="../images/CCSA.jpg" alt="Centro de Ciências Sociais Aplicadas (CCSA) - UFPE" width="100%"  />
+
 
 ## About Me
 
@@ -19,4 +21,4 @@ I am an Assistant Professor of Economics at the <a style='color: black;' href='h
 My academic interests are intersections between Political Economy, Development Economics, Public Economics, and Environmental Economics. As an applied economist, I like to address questions arising from hypotheses in theoretical models and employ quantitative methods with microdata to conduct my analyses. Essentially, my commitment is to elucidate the complexities of these fields and apply my conclusions to contribute to implementing policies that promote social and economic development.
 
 
-For more details about my research, publications, and academic journey, please explore the <a style='color: black;' href='https://franciscocavalcanti.github.io/research/'>Research</a> section and refer to my <a style='color: black;' href='https://franciscocavalcanti.github.io/cv/'>CV</a>.
+For more details about my research, publications, and academic journey, please explore the <a style='color: black;' href='https://franciscocavalcanti.github.io/research/'>Research</a> section, <a style='color: black;' href='https://franciscocavalcanti.github.io/teaching/'>Teaching</a> section, and refer to my <a style='color: black;' href='https://franciscocavalcanti.github.io/cv/'>CV</a>.

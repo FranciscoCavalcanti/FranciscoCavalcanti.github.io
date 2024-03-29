@@ -7,11 +7,11 @@ author_profile: true
 
 # Publications
 
-  * <a style='color: black;' href='https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12560'>Drought-Reliefs and Partisanship</a>  Oxford Bulletin of Economics and Statistics, 2023. (with Boffa, Federico & Piolatto, Amedeo & Fons-Rosen, Christian)
+  * <a style='color: black;' href='https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12560'>Drought-Reliefs and Partisanship</a>  <b>Oxford Bulletin of Economics and Statistics</b>, 2024, Vol. 86, p. 187-208. (with Boffa, Federico & Piolatto, Amedeo & Fons-Rosen, Christian)
     * <a style='color: black;' href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>:  New insights on distributive politics from a new way to measure aridity
     * <a style='color: black;' href='https://github.com/FranciscoCavalcanti/Drought-reliefs-and-Partisanship'>GitHub repository</a>
 
-  * <a style='color: black;' href='http://www.sciencedirect.com/science/article/pii/S0047272718301361'>Popularity shocks and political selection</a> Journal of Public Economics, 2018 , Vol. 165 p. 201-216. (with Daniele, Gianmarco & Galletta, Sergio ) 
+  * <a style='color: black;' href='http://www.sciencedirect.com/science/article/pii/S0047272718301361'>Popularity shocks and political selection</a> <b>Journal of Public Economics</b>, 2018 , Vol. 165 p. 201-216. (with Daniele, Gianmarco & Galletta, Sergio ) 
 
 # Working papers
 
@@ -27,6 +27,8 @@ author_profile: true
   * <a style='color: black;' href='https://www.researchgate.net/profile/Francisco-Cavalcanti-6/publication/319902513_Creative_Class_Human_Capital_and_Urban_Dynamism_Empirical_Evidence_for_the_Brazilian_Cities/links/59c0dbdaaca272aff2e4efb0/Creative-Class-Human-Capital-and-Urban-Dynamism-Empirical-Evidence-for-the-Brazilian-Cities.pdf'>Creative Class, Human Capital and Urban Dynamism: Empirical Evidence for the Brazilian Cities</a> 2016 Anais do XLII Encontro Nacional de Economia [Proceedings of the 42nd Brazilian Economics Meeting], No. 160 (with & Silveira-Neto, Raul da Mota)
 
 # Work in progress
+
+  * <a style='color: black;' href=''>The Impact of Landslides on the Urbanization Patterns of Brazilian Cities</a> (with Carvalho, Ricardo & Alves, Pedro)
 
 
   * <a style='color: black;' href=''>Education and Job Security in Times of Crisis: A Study on the Differential Impact of the COVID-19 Pandemic in Brazil</a> (with Didier, Fredie & Gonzaga, Gustavo)
