@@ -8,6 +8,7 @@ author_profile: true
 
 ## Universidade Federal de Pernambuco
 
+#### Economia Monetária (2024.2)
 #### Economia 12 (2024.1)
 #### Microeconomia (2024.1)
 #### Introdução a Economia (2023.2)  

@@ -15,6 +15,7 @@ author_profile: true
 
 # Working papers
 
+  * <a style='color: black;' href='https://www.researchgate.net/profile/Ricardo-Carvalho-10/publication/383129940_Do_Landslides_Impact_Urbanization_Patterns_Evidence_from_Brazilian_Cities/links/66be0c688d0073559255b1e4/Do-Landslides-Impact-Urbanization-Patterns-Evidence-from-Brazilian-Cities.pdf'>Do Landslides Impact Urbanization Patterns? Evidence from Brazilian Cities</a>  (with Carvalho, Ricardo & Alves, Pedro)
 
   * <a style='color: black;' href='https://ageconsearch.umn.edu/record/338539/'>Climate Change, Droughts, and Agricultural Productivity</a>  (with Helfand, Steven & Moreira, Ajax) 
 
@@ -27,8 +28,6 @@ author_profile: true
   * <a style='color: black;' href='https://www.researchgate.net/profile/Francisco-Cavalcanti-6/publication/319902513_Creative_Class_Human_Capital_and_Urban_Dynamism_Empirical_Evidence_for_the_Brazilian_Cities/links/59c0dbdaaca272aff2e4efb0/Creative-Class-Human-Capital-and-Urban-Dynamism-Empirical-Evidence-for-the-Brazilian-Cities.pdf'>Creative Class, Human Capital and Urban Dynamism: Empirical Evidence for the Brazilian Cities</a> 2016 Anais do XLII Encontro Nacional de Economia [Proceedings of the 42nd Brazilian Economics Meeting], No. 160 (with & Silveira-Neto, Raul da Mota)
 
 # Work in progress
-
-  * <a style='color: black;' href=''>The Impact of Landslides on the Urbanization Patterns of Brazilian Cities</a> (with Carvalho, Ricardo & Alves, Pedro)
 
 
   * <a style='color: black;' href=''>Education and Job Security in Times of Crisis: A Study on the Differential Impact of the COVID-19 Pandemic in Brazil</a> (with Didier, Fredie & Gonzaga, Gustavo)
