@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Publications
+# Selected publications
 
   * <a style='color: black;' href='https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12560'>Drought-Reliefs and Partisanship</a>  <b>Oxford Bulletin of Economics and Statistics</b>, 2024, Vol. 86, p. 187-208. (with Boffa, Federico & Piolatto, Amedeo & Fons-Rosen, Christian)
     * <a style='color: black;' href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>:  New insights on distributive politics from a new way to measure aridity
@@ -29,6 +29,8 @@ author_profile: true
 
 # Work in progress
 
+
+  * <a style='color: black;' href=''>Droughts, Sanitation Provision, and Access to Services in Brazil</a> (with Soares, Thayla & Azevedo, Paulo Furquim)
 
   * <a style='color: black;' href=''>Education and Job Security in Times of Crisis: A Study on the Differential Impact of the COVID-19 Pandemic in Brazil</a> (with Didier, Fredie & Gonzaga, Gustavo)
 
@@ -56,4 +58,4 @@ author_profile: true
 
   * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/mercado-de-trabalho-na-amazonia-legal-uma-analise-comparativa-com-o-resto-do-brasil/'> Mercado de trabalho na Amazônia Legal: Uma análise comparativa com o resto do Brasil</a>  2020-11 Projeto Amazônia 2030 p. 68
 
-  
+  * Cavalcanti, Francisco & Oliveira, Rodrigo <a style='color: black;' href='/'> Nível e Evolução da Desigualdade de renda na Bahia: uma avaliação do papel da educação e dos programas sociais</a>  Bahia Análise & Dados,  v. 24, p. 89, 2014.  
