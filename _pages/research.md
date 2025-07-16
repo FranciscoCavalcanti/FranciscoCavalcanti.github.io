@@ -7,6 +7,8 @@ author_profile: true
 
 # Selected publications
 
+  * <a style='color: black;' href='https://www.sciencedirect.com/science/article/pii/S0167268125001180'>Natural disasters and voting behavior under authoritarian regimes: Evidence from the Brazilian shrimp vote</a> <b>Journal of Economic Behavior & Organization</b>, 2025 , Vol. 234 p. 106998. (with Baerlocher, Diogo & Caldas, Renata & Schneider, Rodrigo) 
+
   * <a style='color: black;' href='https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12560'>Drought-Reliefs and Partisanship</a>  <b>Oxford Bulletin of Economics and Statistics</b>, 2024, Vol. 86, p. 187-208. (with Boffa, Federico & Piolatto, Amedeo & Fons-Rosen, Christian)
     * <a style='color: black;' href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>:  New insights on distributive politics from a new way to measure aridity
     * <a style='color: black;' href='https://github.com/FranciscoCavalcanti/Drought-reliefs-and-Partisanship'>GitHub repository</a>
@@ -19,7 +21,6 @@ author_profile: true
 
   * <a style='color: black;' href='https://ageconsearch.umn.edu/record/338539/'>Climate Change, Droughts, and Agricultural Productivity</a>  (with Helfand, Steven & Moreira, Ajax) 
 
-  * <a style='color: black;' href='https://ssrn.com/abstract=4249006'>Natural Disasters Support Authoritarian Populism: Evidence From the Brazilian Shrimp Vote</a> 2022 Available at SSRN 4249006 (with Baerlocher, Diogo & Caldas, Renata & Schneider, Rodrigo)
 
   * <a style='color: black;' href='http://diposit.ub.edu/dspace/handle/2445/182602'>Ignorance is bliss: voter education and alignment in distributive politics</a> 2021 IEB Working Paper 2021/07 Institut d’Economia de Barcelona (with Boffa, Federico & Piolatto, Amedeo)
 
