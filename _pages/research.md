@@ -17,13 +17,13 @@ author_profile: true
 
 # Working papers
 
-  * <a style='color: black;' href=''>Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil</a> University of South Florida, Department of Economics Working Papers, 2026 (with Baerlocher, Diogo & Caldas, Renata)
+  * <a style='color: black;' href='https://ideas.repec.org/p/usf/wpaper/2026-01.html'>Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil</a> University of South Florida, Department of Economics Working Papers, 2026 (with Baerlocher, Diogo & Caldas, Renata)
 
-  * <a style='color: black;' href=''>Total Factor Productivity Growth in Brazilian Agriculture (1985-2017): The Roles of Climate Change and Public Policy</a> IDB Working Paper, 2025 (with Helfand, Steven & de Freitas, Christiano & Moreira, Ajax)
+  * <a style='color: black;' href='https://economics.ucr.edu/docs/helfand/Helfand%20Determinants%20of%20Total%20Factor%20Productivity%20Growth%20%20draft%2010-2025.pdf'>Total Factor Productivity Growth in Brazilian Agriculture (1985-2017): The Roles of Climate Change and Public Policy</a> IDB Working Paper, 2025 (with Helfand, Steven & de Freitas, Christiano & Moreira, Ajax)
 
   * <a style='color: black;' href='https://www.researchgate.net/profile/Ricardo-Carvalho-10/publication/383129940_Do_Landslides_Impact_Urbanization_Patterns_Evidence_from_Brazilian_Cities/links/66be0c688d0073559255b1e4/Do-Landslides-Impact-Urbanization-Patterns-Evidence-from-Brazilian-Cities.pdf'>Do Landslides Impact Urbanization Patterns? Evidence from Brazilian Cities</a> 2024 (with Lima, Ricardo & Alves, Pedro & Barsanetti, Bruno)
 
-  * <a style='color: black;' href='https://ageconsearch.umn.edu/record/338539/'>Climate Change, Droughts, and Agricultural Productivity</a>  (with Helfand, Steven & Moreira, Ajax)
+  * <a style='color: black;' href='https://economics.ucr.edu/docs/helfand/Helfand%20Climate%20Change,%20Drought,%20and%20Ag%20Prod%20in%20Brazil%208-2024.pdf'>Climate Change, Drought, and Agricultural Production in Brazil</a>  (with Helfand, Steven & Moreira, Ajax)
 
   * <a style='color: black;' href='http://diposit.ub.edu/dspace/handle/2445/182602'>Ignorance is bliss: voter education and alignment in distributive politics</a> 2021 IEB Working Paper 2021/07 Institut d'Economia de Barcelona (with Boffa, Federico & Piolatto, Amedeo)
 
