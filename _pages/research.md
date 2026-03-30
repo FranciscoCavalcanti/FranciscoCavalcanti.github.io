@@ -1,30 +1,11 @@
 ---
-permalink: /
+layout: archive
 title: ""
-excerpt: "About me"
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-<img src="../images/CCSA.jpg" alt="Centro de Ciências Sociais Aplicadas (CCSA) - UFPE" width="100%"  />
-
-
-## About Me
-
-I am an Assistant Professor of Economics at the <a style='color: black;' href='https://www.ufpe.br/'>Universidade Federal de Pernambuco</a> since 2023. Previously, I had a wealth of experience as a Postdoctoral Researcher at the Department of Economics of <a style='color: black;' href='http://www.econ.puc-rio.br/'>PUC-Rio</a> (2018-2023) and Operational Coordinator at <a style='color: black;' href='http://www.econ.puc-rio.br/datazoom/index.html'>Data Zoom</a> (2019-2023). I earned my Ph.D. from the <a style='color: black;' href='https://www.ub.edu/school-economics/'>Universitat de Barcelona</a> (2018), and my academic journey includes both a Master's (2012) and Bachelor's (2010) degree from <a style='color: black;' href='https://sites.google.com/view/pimes/'>PIMES/UFPE</a>.
-
-
-## Research Focus
-
-My academic interests are intersections between Political Economy, Development Economics, Public Economics, and Environmental Economics. As an applied economist, I like to address questions arising from hypotheses in theoretical models and employ quantitative methods with microdata to conduct my analyses. Essentially, my commitment is to elucidate the complexities of these fields and apply my conclusions to contribute to implementing policies that promote social and economic development.
-
----
-
-## Research
-
-### Selected publications
+# Selected publications
 
   * <a style='color: black;' href='https://www.sciencedirect.com/science/article/pii/S0167268125001180'>Natural disasters and voting behavior under authoritarian regimes: Evidence from the Brazilian shrimp vote</a> <b>Journal of Economic Behavior & Organization</b>, 2025 , Vol. 234 p. 106998. (with Baerlocher, Diogo & Caldas, Renata & Schneider, Rodrigo)
 
@@ -34,7 +15,7 @@ My academic interests are intersections between Political Economy, Development E
 
   * <a style='color: black;' href='http://www.sciencedirect.com/science/article/pii/S0047272718301361'>Popularity shocks and political selection</a> <b>Journal of Public Economics</b>, 2018 , Vol. 165 p. 201-216. (with Daniele, Gianmarco & Galletta, Sergio )
 
-### Working papers
+# Working papers
 
   * <a style='color: black;' href='https://ideas.repec.org/p/usf/wpaper/2026-01.html'>Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil</a> University of South Florida, Department of Economics Working Papers, 2026 (with Baerlocher, Diogo & Caldas, Renata)
 
@@ -50,7 +31,7 @@ My academic interests are intersections between Political Economy, Development E
 
   * <a style='color: black;' href='https://www.researchgate.net/profile/Francisco-Cavalcanti-6/publication/319902513_Creative_Class_Human_Capital_and_Urban_Dynamism_Empirical_Evidence_for_the_Brazilian_Cities/links/59c0dbdaaca272aff2e4efb0/Creative-Class-Human-Capital-and-Urban-Dynamism-Empirical-Evidence-for-the-Brazilian-Cities.pdf'>Creative Class, Human Capital and Urban Dynamism: Empirical Evidence for the Brazilian Cities</a> 2016 Anais do XLII Encontro Nacional de Economia [Proceedings of the 42nd Brazilian Economics Meeting], No. 160 (with & Silveira-Neto, Raul da Mota)
 
-### Work in progress
+# Work in progress
 
   * <a style='color: black;' href=''>Droughts, Sanitation Provision, and Access to Services in Brazil</a> (with Soares, Thayla & Azevedo, Paulo Furquim)
 
@@ -61,7 +42,7 @@ My academic interests are intersections between Political Economy, Development E
   * <a style='color: black;' href=''>Drought and Corruption</a>
 
 
-### Technical reports and other publications
+# Technical reports and other publications
 
   * Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/desigualdades-no-mercado-de-trabalho-por-raca-evidencias-para-a-amazonia-legal/'>Desigualdades no Mercado de Trabalho por Raça: Evidências para a Amazônia Legal</a> 2022-06 Projeto Amazônia 2030 , No. 42 p. 42
 
@@ -78,29 +59,3 @@ My academic interests are intersections between Political Economy, Development E
   * Alfenas, Flávia &  Cavalcanti, Francisco & Gonzaga, Gustavo <a style='color: black;' href='https://amazonia2030.org.br/mercado-de-trabalho-na-amazonia-legal-uma-analise-comparativa-com-o-resto-do-brasil/'> Mercado de trabalho na Amazônia Legal: Uma análise comparativa com o resto do Brasil</a>  2020-11 Projeto Amazônia 2030 p. 68
 
   * Cavalcanti, Francisco & Oliveira, Rodrigo <a style='color: black;' href='/'> Nível e Evolução da Desigualdade de renda na Bahia: uma avaliação do papel da educação e dos programas sociais</a>  Bahia Análise & Dados,  v. 24, p. 89, 2014.
-
-## Teaching
-
-### Universidade Federal de Pernambuco
-
-#### Seminários de Discentes do PIMES -  (2025.2, 2025.1)
-#### Economia e Mudança Climática (Tópicos de Macroeconomia) -  (2026.1, 2025.1)
-#### Economia Monetária (2024.2, 2024.2)
-#### Economia 12 (2026.1, 2025.1, 2024.1)
-#### Microeconomia (2024.1)
-#### Introdução a Economia (2023.2)
-
-### Universitat de Barcelona
-
-#### Fundaments de la Fiscalidad (2016.1, 2017.2)
-#### Economia (2017.1)
-
-
-## Curriculum Vitae
-
-If the embedded PDF below does not load, you can <u><a href="../files/Curriculum_Vitae_English.pdf">download it here.</a></u>
-<br/>
-
-<embed src="../files/Curriculum_Vitae_English.pdf" type="application/pdf" width="100%" /
-
-For more details about my research, publications, and academic journey, please explore the <a style='color: black;' href='https://franciscocavalcanti.github.io/research/'>Research</a> section, <a style='color: black;' href='https://franciscocavalcanti.github.io/teaching/'>Teaching</a> section, and refer to my <a style='color: black;' href='https://franciscocavalcanti.github.io/cv/'>CV</a>
