@@ -83,17 +83,45 @@ My academic interests are intersections between Political Economy, Development E
 
 ### Universidade Federal de Pernambuco
 
-#### Seminários de Discentes do PIMES -  (2025.2, 2025.1)
-#### Economia e Mudança Climática (Tópicos de Macroeconomia) -  (2026.1, 2025.1)
-#### Economia Monetária (2024.2, 2024.2)
-#### Economia 12 (2026.1, 2025.1, 2024.1)
-#### Microeconomia (2024.1)
-#### Introdução a Economia (2023.2)
+<ul class="teaching-list">
+  <li>
+    <span class="teaching-course">Economia e Mudança Climática <span class="teaching-note">(Tópicos de Macroeconomia)</span></span>
+    <span class="teaching-terms"><span class="teaching-term">2026.1</span><span class="teaching-term">2025.1</span></span>
+  </li>
+  <li>
+    <span class="teaching-course">Economia 12</span>
+    <span class="teaching-terms"><span class="teaching-term">2026.1</span><span class="teaching-term">2025.1</span><span class="teaching-term">2024.1</span></span>
+  </li>
+  <li>
+    <span class="teaching-course">Seminários de Discentes do PIMES</span>
+    <span class="teaching-terms"><span class="teaching-term">2025.2</span><span class="teaching-term">2025.1</span></span>
+  </li>
+  <li>
+    <span class="teaching-course">Economia Monetária</span>
+    <span class="teaching-terms"><span class="teaching-term">2024.2</span></span>
+  </li>
+  <li>
+    <span class="teaching-course">Microeconomia</span>
+    <span class="teaching-terms"><span class="teaching-term">2024.1</span></span>
+  </li>
+  <li>
+    <span class="teaching-course">Introdução a Economia</span>
+    <span class="teaching-terms"><span class="teaching-term">2023.2</span></span>
+  </li>
+</ul>
 
 ### Universitat de Barcelona
 
-#### Fundaments de la Fiscalidad (2016.1, 2017.2)
-#### Economia (2017.1)
+<ul class="teaching-list">
+  <li>
+    <span class="teaching-course">Fundaments de la Fiscalidad</span>
+    <span class="teaching-terms"><span class="teaching-term">2017.2</span><span class="teaching-term">2016.1</span></span>
+  </li>
+  <li>
+    <span class="teaching-course">Economia</span>
+    <span class="teaching-terms"><span class="teaching-term">2017.1</span></span>
+  </li>
+</ul>
 
 
 ## Curriculum Vitae {#cv}
