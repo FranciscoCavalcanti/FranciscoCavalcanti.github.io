@@ -39,3 +39,18 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Site customizations
+   ========================================================================== */
+
+/* Publication lists: emphasize paper titles, set journal names as secondary */
+.page__content li > a:first-child {
+  font-weight: 600;
+}
+
+.page__content li b {
+  font-weight: normal;
+  font-style: italic;
+  color: $dark-gray;
+}
