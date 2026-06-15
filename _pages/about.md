@@ -24,17 +24,19 @@ My academic interests are intersections between Political Economy, Development E
 
 ## Research
 
+For a complete and up-to-date list of my publications and citations, see my <a href='https://scholar.google.com/citations?hl=pt-BR&user=nfOjdjYAAAAJ'>Google Scholar</a> profile.
+
 ### Selected publications
 
   * <a href='https://www.sciencedirect.com/science/article/pii/S0167268125001180'>Natural disasters and voting behavior under authoritarian regimes: Evidence from the Brazilian shrimp vote</a> <b>Journal of Economic Behavior & Organization</b>, 2025 , Vol. 234 p. 106998. (with Baerlocher, Diogo & Caldas, Renata & Schneider, Rodrigo)
 
-  * <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12560'>Drought-Reliefs and Partisanship</a>  <b>Oxford Bulletin of Economics and Statistics</b>, 2024, Vol. 86, p. 187-208. (with Boffa, Federico & Piolatto, Amedeo & Fons-Rosen, Christian)
-    * <a href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>:  New insights on distributive politics from a new way to measure aridity
-    * <a href='https://github.com/FranciscoCavalcanti/Drought-reliefs-and-Partisanship'>GitHub repository</a>
+  * <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12560'>Drought-Reliefs and Partisanship</a>  <b>Oxford Bulletin of Economics and Statistics</b>, 2024, Vol. 86, p. 187-208. (with Boffa, Federico & Piolatto, Amedeo & Fons-Rosen, Christian) — <a href='https://voxeu.org/article/insights-distributive-politics-new-way-measure-aridity'>Voxeu</a>: New insights on distributive politics from a new way to measure aridity. <a href='https://github.com/FranciscoCavalcanti/Drought-reliefs-and-Partisanship'>GitHub repository</a>.
 
   * <a href='http://www.sciencedirect.com/science/article/pii/S0047272718301361'>Popularity shocks and political selection</a> <b>Journal of Public Economics</b>, 2018 , Vol. 165 p. 201-216. (with Daniele, Gianmarco & Galletta, Sergio )
 
 ### Working papers
+
+  * <a href='https://www.researchgate.net/profile/Francisco-Cavalcanti-6/publication/406502168_Education_and_Job_Loss_During_COVID-19_Evidence_from_Brazil/links/6a29d64a68552924bb0049a2/Education-and-Job-Loss-During-COVID-19-Evidence-from-Brazil.pdf'>Education and Job Loss During COVID-19: Evidence from Brazil</a> (with Didier, Fredie & Gonzaga, Gustavo)
 
   * <a href='https://ideas.repec.org/p/usf/wpaper/2026-01.html'>Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil</a> University of South Florida, Department of Economics Working Papers, 2026 (with Baerlocher, Diogo & Caldas, Renata)
 
@@ -54,11 +56,11 @@ My academic interests are intersections between Political Economy, Development E
 
   * <a href=''>Droughts, Sanitation Provision, and Access to Services in Brazil</a> (with Soares, Thayla & Azevedo, Paulo Furquim)
 
-  * <a href=''>Education and Job Security in Times of Crisis: A Study on the Differential Impact of the COVID-19 Pandemic in Brazil</a> (with Didier, Fredie & Gonzaga, Gustavo)
-
   * <a href=''>Mobile broadband expansion and tasks: Evidence from Brazilian formal labor markets</a> (with Mota, Henrique & Gonzaga, Gustavo)
 
   * <a href=''>Drought and Corruption</a>
+
+  * <a href=''>Show Me Your Pix: The Impact of Electronic Payment Technologies on Tax Collection</a>
 
 
 ### Technical reports and other publications

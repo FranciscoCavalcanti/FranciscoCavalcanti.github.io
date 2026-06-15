@@ -44,8 +44,10 @@
    Site customizations
    ========================================================================== */
 
-/* Publication lists: emphasize paper titles, set journal names as secondary */
-.page__content li > a:first-child {
+/* Publication lists: emphasize paper titles, set journal names as secondary.
+   The `> p >` variant covers items kramdown wraps in <p> (loose lists). */
+.page__content li > a:first-child,
+.page__content li > p:first-child > a:first-child {
   font-weight: 600;
 }
 
