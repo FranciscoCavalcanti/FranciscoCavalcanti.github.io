@@ -128,8 +128,8 @@ For a complete and up-to-date list of my publications and citations, see my <a h
 
 ## Curriculum Vitae {#cv}
 
-<a href="../files/Curriculum_Vitae_English.pdf" class="btn btn--info">Download CV (PDF)</a>
+<a href="../files/cv/Curriculum_Vitae_English.pdf" class="btn btn--info">Download CV (PDF)</a>
 
-<embed src="../files/Curriculum_Vitae_English.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="../files/cv/Curriculum_Vitae_English.pdf" type="application/pdf" width="100%" height="600px" />
 
 For more about my research, publications, and academic journey, please explore the <a href='#research'>Research</a> section, <a href='#teaching'>Teaching</a> section, and refer to my <a href='#cv'>CV</a>
