@@ -87,7 +87,7 @@ For a complete and up-to-date list of my publications and citations, see my <a h
 
 <ul class="teaching-list">
   <li>
-    <span class="teaching-course">Macroeconomia</span>
+    <span class="teaching-course">Macroeconomia 1</span>
     <span class="teaching-terms"><span class="teaching-term">2026.2</span></span>
   </li>
   <li>
@@ -95,12 +95,12 @@ For a complete and up-to-date list of my publications and citations, see my <a h
     <span class="teaching-terms"><span class="teaching-term">2026.2</span><span class="teaching-term">2025.2</span><span class="teaching-term">2025.1</span></span>
   </li>
   <li>
-    <span class="teaching-course">Economia e Mudança Climática <span class="teaching-note">(Tópicos de Macroeconomia)</span></span>
-    <span class="teaching-terms"><span class="teaching-term">2026.1</span><span class="teaching-term">2025.1</span></span>
+    <span class="teaching-course">Economia 12</span>
+    <span class="teaching-terms"><span class="teaching-term">2026.2</span><span class="teaching-term">2026.1</span><span class="teaching-term">2025.1</span><span class="teaching-term">2024.1</span></span>
   </li>
   <li>
-    <span class="teaching-course">Economia 12</span>
-    <span class="teaching-terms"><span class="teaching-term">2026.1</span><span class="teaching-term">2025.1</span><span class="teaching-term">2024.1</span></span>
+    <span class="teaching-course">Economia e Mudança Climática <span class="teaching-note">(Tópicos de Macroeconomia)</span></span>
+    <span class="teaching-terms"><span class="teaching-term">2026.1</span><span class="teaching-term">2025.1</span></span>
   </li>
   <li>
     <span class="teaching-course">Economia Monetária</span>
