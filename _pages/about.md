@@ -40,7 +40,7 @@ For a complete and up-to-date list of my publications and citations, see my <a h
 
 ### Working papers
 
-  * Show Me Your Pix: The Impact of Electronic Payment Technologies on Tax Collection, 2026 (with Foremny, Dirk)
+  * Show Me Your Pix: The Impact of Electronic Payment Technologies on Tax Collection, 2026 (with Foremny, Dirk) — In the media: <a href='https://valorinternational.globo.com/business/news/2026/10/27/pix-driven-formalization-boosts-tax-revenue.ghtml'>Valor International</a>, "Pix-driven formalization boosts tax revenue" (October 2026).
 
   * <a href='https://www.researchgate.net/profile/Francisco-Cavalcanti-6/publication/406502168_Education_and_Job_Loss_During_COVID-19_Evidence_from_Brazil/links/6a29d64a68552924bb0049a2/Education-and-Job-Loss-During-COVID-19-Evidence-from-Brazil.pdf'>Education and Job Loss During COVID-19: Evidence from Brazil</a> (with Didier, Fredie & Gonzaga, Gustavo)
 
