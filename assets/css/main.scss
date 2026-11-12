@@ -95,7 +95,48 @@
   padding: 0.1em 0.55em;
   font-size: 0.7em;
   font-weight: 600;
-  color: mix(#000, $info-color, 15%);
-  background-color: mix(#fff, $info-color, 88%);
+  color: #5A4A2E;
+  background-color: #EAE4D6;
   border-radius: 3px;
+}
+
+/* Off-white theme: surfaces the base theme hard-codes as white */
+.masthead {
+  border-bottom-color: $border-color;
+}
+
+.site-title {
+  font-family: $header-font-family;
+}
+
+.greedy-nav .hidden-links,
+.toc {
+  background: #FFFDF8;
+}
+
+/* mobile "Follow" dropdown; stays transparent on desktop */
+.author__urls {
+  background: #FFFDF8;
+
+  @include breakpoint($large) {
+    background: transparent;
+  }
+}
+
+.page__footer {
+  background-color: #F1EDE4;
+  border-top-color: $border-color;
+}
+
+.page__content h2 {
+  color: $primary-color;
+  border-bottom-color: $border-color;
+}
+
+.page__content h3 {
+  color: $primary-color;
+}
+
+.page__content a:hover {
+  color: #8C2F39;
 }
