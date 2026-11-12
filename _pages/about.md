@@ -13,7 +13,7 @@ redirect_from:
 
 ## About Me
 
-I am an Assistant Professor of Economics at the <a href='https://www.ufpe.br/'>Universidade Federal de Pernambuco</a> since 2023. Previously, I had a wealth of experience as a Postdoctoral Researcher at the Department of Economics of <a href='http://www.econ.puc-rio.br/'>PUC-Rio</a> (2018-2023) and Operational Coordinator at <a href='http://www.econ.puc-rio.br/datazoom/index.html'>Data Zoom</a> (2019-2023). I earned my Ph.D. from the <a href='https://www.ub.edu/school-economics/'>Universitat de Barcelona</a> (2018), and my academic journey includes both a Master's (2012) and Bachelor's (2010) degree from <a href='https://sites.google.com/view/pimes/'>PIMES/UFPE</a>.
+I am an Assistant Professor of Economics at the <a href='https://www.ufpe.br/'>Universidade Federal de Pernambuco</a> since 2023. Previously, I had a wealth of experience as a Postdoctoral Researcher at the Department of Economics of <a href='http://www.econ.puc-rio.br/'>PUC-Rio</a> (2018-2023) and Operational Coordinator at <a href='http://www.econ.puc-rio.br/datazoom/index.html'>Data Zoom</a> (2019-2023). I earned my Ph.D. from the <a href='https://www.ub.edu/school-economics/'>Universitat de Barcelona</a> (2018), and my academic journey includes both a Master's (2013) and Bachelor's (2010) degree from <a href='https://sites.google.com/view/pimes/'>PIMES/UFPE</a>.
 
 
 ## Academic Interests
@@ -34,15 +34,21 @@ For a complete and up-to-date list of my publications and citations, see my <a h
 
   * <a href='http://www.sciencedirect.com/science/article/pii/S0047272718301361'>Popularity shocks and political selection</a> <b>Journal of Public Economics</b>, 2018 , Vol. 165 p. 201-216. (with Daniele, Gianmarco & Galletta, Sergio )
 
+### Book chapters
+
+  * <a href='https://doi.org/10.18235/0014396'>Total Factor Productivity Growth in Brazilian Agriculture (1985-2017): The Roles of Climate Change and Public Policy</a> In: <i>Agricultural Productivity in Latin America and the Caribbean: What We Know and Where We Are Heading</i>, Inter-American Development Bank, 2026 (with Helfand, Steven & de Freitas, Christiano & Moreira, Ajax & Schling, Maja)
+
 ### Working papers
+
+  * Show Me Your Pix: The Impact of Electronic Payment Technologies on Tax Collection, 2026 (with Foremny, Dirk)
 
   * <a href='https://www.researchgate.net/profile/Francisco-Cavalcanti-6/publication/406502168_Education_and_Job_Loss_During_COVID-19_Evidence_from_Brazil/links/6a29d64a68552924bb0049a2/Education-and-Job-Loss-During-COVID-19-Evidence-from-Brazil.pdf'>Education and Job Loss During COVID-19: Evidence from Brazil</a> (with Didier, Fredie & Gonzaga, Gustavo)
 
   * <a href='https://ideas.repec.org/p/usf/wpaper/2026-01.html'>Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil</a> University of South Florida, Department of Economics Working Papers, 2026 (with Baerlocher, Diogo & Caldas, Renata)
 
-  * <a href='https://economics.ucr.edu/docs/helfand/Helfand%20Determinants%20of%20Total%20Factor%20Productivity%20Growth%20%20draft%2010-2025.pdf'>Total Factor Productivity Growth in Brazilian Agriculture (1985-2017): The Roles of Climate Change and Public Policy</a> IDB Working Paper, 2025 (with Helfand, Steven & de Freitas, Christiano & Moreira, Ajax)
+  * Drought of Learning: Can Private Sanitation Systems Exacerbate the Impact of Droughts on Student Learning? 2026 (with Soares, Thayla & Azevedo, Paulo Furquim)
 
-  * <a href='https://www.researchgate.net/profile/Ricardo-Carvalho-10/publication/383129940_Do_Landslides_Impact_Urbanization_Patterns_Evidence_from_Brazilian_Cities/links/66be0c688d0073559255b1e4/Do-Landslides-Impact-Urbanization-Patterns-Evidence-from-Brazilian-Cities.pdf'>Do Landslides Impact Urbanization Patterns? Evidence from Brazilian Cities</a> 2024 (with Lima, Ricardo & Alves, Pedro & Barsanetti, Bruno)
+  * <a href='https://www.researchgate.net/profile/Ricardo-Carvalho-10/publication/383129940_Do_Landslides_Impact_Urbanization_Patterns_Evidence_from_Brazilian_Cities/links/66be0c688d0073559255b1e4/Do-Landslides-Impact-Urbanization-Patterns-Evidence-from-Brazilian-Cities.pdf'>Do Landslides Impact City Size? Evidence from Brazil</a> 2026 (with Lima, Ricardo & Alves, Pedro & Barsanetti, Bruno)
 
   * <a href='https://economics.ucr.edu/docs/helfand/Helfand%20Climate%20Change,%20Drought,%20and%20Ag%20Prod%20in%20Brazil%208-2024.pdf'>Climate Change, Drought, and Agricultural Production in Brazil</a>  (with Helfand, Steven & Moreira, Ajax)
 
@@ -54,16 +60,18 @@ For a complete and up-to-date list of my publications and citations, see my <a h
 
 ### Work in progress
 
-  * <a href=''>Droughts, Sanitation Provision, and Access to Services in Brazil</a> (with Soares, Thayla & Azevedo, Paulo Furquim)
+  * Mobile broadband expansion and tasks: Evidence from Brazilian formal labor markets (with Mota, Henrique & Gonzaga, Gustavo)
 
-  * <a href=''>Mobile broadband expansion and tasks: Evidence from Brazilian formal labor markets</a> (with Mota, Henrique & Gonzaga, Gustavo)
-
-  * <a href=''>Drought and Corruption</a>
-
-  * <a href=''>Show Me Your Pix: The Impact of Electronic Payment Technologies on Tax Collection</a>
+  * Drought and Corruption
 
 
 ### Technical reports and other publications
+
+  * de Albuquerque, M. M. & Lacerda, F. F. & de Lima Silva, A. C. & Rolim, L. A. et al. (incl. Cavalcanti, Francisco) Transição agroecológica no Semiárido e o “Polígono da Maconha”: a <i>Cannabis sativa</i> em cultivos consorciados à Caatinga. 2026 Cadernos de Agroecologia, v. 21, n. 1
+
+  * Análise das Desigualdades Socioeconômicas de Gênero e Raça e Políticas Públicas na Amazônia Brasileira. 2025-09 Consultoría, Proyecto RG-T3975 (IDB): Desarrollo Sostenible de la Amazonía con Enfoque de Género y Diversidad
+
+  * Cavalcanti, Francisco <a href='https://nadaesgratis.es/judit-vall/covid-en-el-mundo-brazil'>COVID en el mundo: Brazil</a> 2021 Nada es Gratis (blog)
 
   * Cavalcanti, Francisco & Gonzaga, Gustavo <a href='https://amazonia2030.org.br/desigualdades-no-mercado-de-trabalho-por-raca-evidencias-para-a-amazonia-legal/'>Desigualdades no Mercado de Trabalho por Raça: Evidências para a Amazônia Legal</a> 2022-06 Projeto Amazônia 2030 , No. 42 p. 42
 
